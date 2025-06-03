@@ -2,32 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Pago Exitoso - Webinar</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #3B4671;
-      text-align: center;
-      padding: 50px;
-    }
-    .container {
-      background-color: #ffffff;
-      padding: 40px;
-      border-radius: 10px;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-      display: inline-block;
-    }
-    a.button {
-      display: inline-block;
-      margin-top: 20px;
-      background-color: #4CAF50;
-      color: white;
-      padding: 12px 24px;
-      text-decoration: none;
-      border-radius: 6px;
-      font-weight: bold;
-    }
-  </style>
+
 </head>
 <body>
   <div class="container">
